@@ -1,5 +1,5 @@
-<h1 align="center">Hello world, I'm Anthony</h1>
-<h3 align="center">A passionate frontend / backend developer from Belgium</h3>
+<h1 align="left">Hello world, I'm Anthony</h1>
+<h3 align="left">A passionate frontend / backend developer from Belgium</h3>
 
 ### :fire: My Stats :
 

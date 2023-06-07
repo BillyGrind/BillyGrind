@@ -3,7 +3,7 @@
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BillyGrind&theme=dark&background=000000)]      (https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BillyGrind&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyGrind)](https://github.com/anuraghazra/github-readme-stats)
 

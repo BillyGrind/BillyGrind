@@ -2,12 +2,11 @@
 <h3 align="center">A passionate frontend / backend developer from Belgium</h3>
 
 ### :fire: My Stats :
-<div>
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BillyGrind&theme=dark&background=000000)]      (https://git.io/streak-stats)
-</div>
-<div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyGrind)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 <h3 align="left">Connect with me:</h3>

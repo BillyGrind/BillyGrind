@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/4dHQePtILZySljcp4B" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<iframe src="https://giphy.com/embed/VtvNS5ZESQzAmjO5EL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/imaginedragons-animation-imagine-dragons-love-of-mine-VtvNS5ZESQzAmjO5EL">via GIPHY</a></p>
 <!--
 **BillyGrind/BillyGrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

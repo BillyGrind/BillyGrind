@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend / backend developer from Belgium</h3>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=BIllyGrind
+https://github-readme-streak-stats.herokuapp.com/?user=BillyGrind
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://giphy.com/embed/VtvNS5ZESQzAmjO5EL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/rIFQm2gkHtMKI6MhH3" width="480" height="270"></img>
+</div>
 <!--
 **BillyGrind/BillyGrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

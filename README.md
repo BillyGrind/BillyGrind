@@ -6,8 +6,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-sigme-five.vercel.app/api/top-langs/?username=BillyGrind&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats-sigme-five.vercel.app/api/top-langs/?username=BillyGrind&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BillyGrind&theme=react&line_height=40&hide=css"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

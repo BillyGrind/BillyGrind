@@ -38,11 +38,6 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-   <img src="">
-      <img src="">
-         <img src="">
 
-
-
-         //https://github.com/alexandresanlim/Badges4-README.md-Profile
+         /*https://github.com/alexandresanlim/Badges4-README.md-Profile */
 

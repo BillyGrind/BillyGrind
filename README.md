@@ -4,7 +4,9 @@
 
 <h3 align="center"> :fire: My Stats : </h3>
 
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+</div>
 
 <h3 align="center"> Top Langs </h3>
 

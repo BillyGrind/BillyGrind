@@ -5,10 +5,10 @@
 <h3 align="center"> :fire: My Stats : </h3>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=DenverCoder1](https://streak-stats.demolab.com/?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)"/></a>
+    <a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=DenverCoder1](https://streak-stats.demolab.com/?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)"/></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+
 
 
 <h3 align="center"> Top Langs </h3>
@@ -16,6 +16,7 @@
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BillyGrind&theme=react&line_height=40&hide=css"/> </a>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/anthony-denayer/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/anthony-denayer/"/></a>
 </p>

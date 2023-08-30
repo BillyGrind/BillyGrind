@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello world, I'm Anthony</h1>
 <h3 align="center">A passionate frontend / backend developer from Belgium</h3>
 

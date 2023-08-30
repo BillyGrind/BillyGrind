@@ -2,7 +2,7 @@
 <h1 align="center">Hello world, I'm Anthony</h1>
 <h3 align="center">A passionate frontend / backend developer from Belgium</h3>
 
-### :fire: My Stats :
+<h3 align="center"> :fire: My Stats : </h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

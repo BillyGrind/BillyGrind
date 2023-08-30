@@ -10,7 +10,9 @@
 
 <h3 align="center"> Top Langs </h3>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BillyGrind&theme=react&line_height=40&hide=css"/> </a>
+<p align="center">
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BillyGrind&theme=react&line_height=40&hide=css"/> </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 

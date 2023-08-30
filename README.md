@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend / backend developer from Belgium</h3>
 
 <h3 align="center"> :fire: My Stats : </h3>
-<div style="center">
+<div align="center">
     [![GitHub Streak](https://streak-stats.demolab.com?user=BillyGrind&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 <h3 align="center"> Top Langs </h3>

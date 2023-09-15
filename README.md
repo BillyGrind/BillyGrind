@@ -3,7 +3,7 @@
 
 <h3 align="center"> :fire: My Stats : </h3>
 
-[![BillyGrind's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyGrind)](https://github.com/anuraghazra/github-readme-stats)
+[![BillyGrind's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyGrind&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BillyGrind&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 

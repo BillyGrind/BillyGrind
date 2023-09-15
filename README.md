@@ -5,6 +5,11 @@
 
 [![BillyGrind's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyGrind&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+    <a href=""> <img align="center" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BillyGrind&theme=react&line_height=40&hide=css](https://github-readme-stats.vercel.app/api?username=BillyGrind&show_icons=true&theme=dark)"/> </a>
+</p>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BillyGrind&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 
